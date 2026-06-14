@@ -286,7 +286,7 @@ The `query_lore()` method in `GameMasterAgent` performs keyword-based retrieval 
 
 - **Event:** Microsoft Agents League Hackathon 2026
 - **Challenge:** B — Role Play Game System
-- **Team:** [Your Team Name]
+- **Team:** Pratham Borhade
 - **Submission Date:** June 2026
 
 This project demonstrates:
